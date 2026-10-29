@@ -1,0 +1,8 @@
+{
+  "type": "postgresql",
+  "host": "my-db.example.com",
+  "port": 5432,
+  "database": "appdb",
+  "user": "app_user",
+  "params": { "sslmode": "require" }
+}

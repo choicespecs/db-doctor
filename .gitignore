@@ -1,0 +1,6 @@
+db-doctor-report-*.md
+*.db
+__pycache__/
+.venv/
+venv/
+.env
